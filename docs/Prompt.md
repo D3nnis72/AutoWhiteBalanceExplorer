@@ -1,7 +1,3 @@
-Here is a version you can basically hand in as the official project description.
-
----
-
 ## Project 1, Interactive Auto White Balance Explorer
 
 ### 1. Goal

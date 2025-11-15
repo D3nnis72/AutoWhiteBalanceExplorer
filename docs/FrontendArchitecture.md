@@ -1,7 +1,3 @@
-Here is a `FrontendArchitecture.md` you can drop straight into your repo and tweak.
-
----
-
 # Frontend Architecture, Auto White Balance Explorer
 
 Frontend for the **Interactive Auto White Balance Explorer**.

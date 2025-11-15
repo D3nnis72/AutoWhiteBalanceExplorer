@@ -1,10 +1,3 @@
-Here is a first version of a `PythonBackendArchitecture.md` you can drop into your repo and extend.
-
-I will write it like a real architecture doc, using
-FastAPI, a clean layered structure, an `engine` module, and PyTorch for the image processing.
-
----
-
 # Python Backend Architecture
 
 Backend for the **Auto White Balance Explorer**.
